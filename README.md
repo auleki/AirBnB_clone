@@ -1,6 +1,5 @@
-#!/usr/bin/python3
 # AirBnB Clone
-
+A terminal application to manipulate data
 
 ## Description of the project
 This is a console application.
