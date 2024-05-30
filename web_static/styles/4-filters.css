@@ -1,0 +1,8 @@
+.filters {
+    max-width: 100%;
+    border: 1px #DDDDDD solid;
+    border-radius: 4px;
+    padding: 10px 15px 10px 10px;
+    display: flex;
+    justify-content: flex-end;
+}
