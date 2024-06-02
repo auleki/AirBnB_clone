@@ -1,0 +1,40 @@
+.locations {
+    height: 100%;
+    width: 25%;
+    border-right: 1px solid #DDDDDD;
+}
+
+h4 {
+    font-weight: 400;
+}
+
+h4, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.amenities, .locations {
+    border: 1px solid crimson;
+}
+
+.amenities, .locations {
+    display: flex;
+    padding: 10px 0;
+    flex-direction: column;
+}
+
+.filters {
+    max-width: 100%;
+    border: 1px #DDDDDD solid;
+    border-radius: 4px;
+    /* padding: 10px 15px 10px 10px; */
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: flex-start;
+    align-items: center;
+    color: #1a1a1a;
+}
+
+.filters button {
+    justify-content : flex-end;
+}

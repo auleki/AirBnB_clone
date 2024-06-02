@@ -1,6 +1,11 @@
-body {
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica;
     min-height: 100vh;
 }
 
@@ -8,6 +13,8 @@ body {
     max-width: 1000px;
     margin: 30px auto; /* auto pushed this content to the center */
     color: #ffffff;
+    /* display: flex; */
+    align-items: center;
     height: 70px;
 }
 
